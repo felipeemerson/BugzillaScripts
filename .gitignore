@@ -1,0 +1,7 @@
+*.txt
+*.json
+concurrent.py
+concurrent2.py
+dataset_analyze.py
+test.py
+join_allbugs.py
